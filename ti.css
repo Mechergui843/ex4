@@ -1,0 +1,65 @@
+body{
+	background-color: cyan;
+	font-family: comic sans ms;
+}
+p{
+	height: 40px;
+	background-color: darkblue;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin: 0px 20px;
+}
+header{
+	margin-top: 10px;
+	width: 100%;
+	text-align: center;
+}
+section{float: right;
+	background: url("FOND.jpg");
+	float: right;
+	border: 1px solid black;
+	height: 460px;
+	width: 150px;
+	margin-top: 20px;
+}
+aside{
+	float: left;
+	height: 460px;
+	width: 150px;
+	border: 1px solid black;
+	margin-top: 20px;
+}
+footer{
+	width: 100%;
+	text-align: center;
+	background-color: darkblue;
+}
+article{
+	width: 90%;
+	margin-top: 50px;
+	margin-left: 100px;
+}
+.a{
+	color: black;
+}
+ul{
+	list-style-type: circle;
+}
+.k{
+	position: absolute;
+	right: 30px;
+	top: 45px;
+}
+.h{
+	position: absolute;
+	left: 30px;
+	top: 45px;
+}
+a{
+	color: yellow;
+}
+a:hover{
+	color: pink;
+	font-size: 15px;
+}
